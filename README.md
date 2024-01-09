@@ -35,7 +35,7 @@ The service is provided on an "as is" and "as available" basis. We expressly dis
 You expressly understand and agree that we shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages resulting from your use or inability to use the service.
 
 ## 📢 Violations
-Please report any violations of these Terms of Service to our customer service at [your contact email].
+Please report any violations of these Terms of Service to our customer service at `ranatuhin2010@gmail.com`.
 
 ## 🔄 Changes to the Terms
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect.

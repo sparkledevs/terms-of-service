@@ -1,4 +1,4 @@
-![Ashley X Discord Bot]([https://www.proglobalbusinesssolutions.com/wp-content/uploads/2018/11/Common-Standard-Banner-Sizes.jpg](https://imgur.com/nqlKMyH))
+![Ashley X Discord Bot](https://i.imgur.com/nqlKMyH.jpg)
 
 # 📜 Terms of Service for Ashley X Discord Bot
 

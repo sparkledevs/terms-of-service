@@ -1,17 +1,17 @@
-!All-in-One Discord Bot Banner
+![All-in-One Discord Bot Banner](https://www.proglobalbusinesssolutions.com/wp-content/uploads/2018/11/Common-Standard-Banner-Sizes.jpg)
 
 # 📜 Terms of Service for "All-in-One" Discord Bot
 
 ## 📌 Table of Contents
-- Acceptance of Terms
-- Description of Service
-- User Conduct
-- Modifications to Service
-- Termination
-- Disclaimer of Warranties
-- Limitation of Liability
-- Violations
-- Changes to the Terms
+- [Acceptance of Terms](#acceptance-of-terms)
+- [Description of Service](#description-of-service)
+- [User Conduct](#user-conduct)
+- [Modifications to Service](#modifications-to-service)
+- [Termination](#termination)
+- [Disclaimer of Warranties](#disclaimer-of-warranties)
+- [Limitation of Liability](#limitation-of-liability)
+- [Violations](#violations)
+- [Changes to the Terms](#changes-to-the-terms)
 
 ## 📝 Acceptance of Terms
 By using the "All-in-One" Discord bot, you agree to these terms of service. If you do not agree to these terms, please do not use this bot.
@@ -40,4 +40,4 @@ Please report any violations of these Terms of Service to our customer service a
 ## 🔄 Changes to the Terms
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect.
 
-_Last updated: [Date]_
+_Last updated: 9 th November, 2023_

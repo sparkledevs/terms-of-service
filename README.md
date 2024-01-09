@@ -40,4 +40,4 @@ Please report any violations of these Terms of Service to our customer service a
 ## 🔄 Changes to the Terms
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect.
 
-_Last updated: 9 th November, 2023_
+_Last updated: 9 th October, 2024_

@@ -1,6 +1,6 @@
-![All-in-One Discord Bot Banner](https://www.proglobalbusinesssolutions.com/wp-content/uploads/2018/11/Common-Standard-Banner-Sizes.jpg)
+![Ashley X Discord Bot]([https://www.proglobalbusinesssolutions.com/wp-content/uploads/2018/11/Common-Standard-Banner-Sizes.jpg](https://imgur.com/nqlKMyH))
 
-# 📜 Terms of Service for "All-in-One" Discord Bot
+# 📜 Terms of Service for Ashley X Discord Bot
 
 ## 📌 Table of Contents
 - [Acceptance of Terms](#acceptance-of-terms)
@@ -17,7 +17,7 @@
 By using the "All-in-One" Discord bot, you agree to these terms of service. If you do not agree to these terms, please do not use this bot.
 
 ## 🤖 Description of Service
-"All-in-One" Discord bot provides various services including (but not limited to) [describe the services here]. We reserve the right to modify or discontinue, temporarily or permanently, the service (or any part thereof) with or without notice.
+Ashley X Discord bot provides various services including (but not limited to) [describe the services here]. We reserve the right to modify or discontinue, temporarily or permanently, the service (or any part thereof) with or without notice.
 
 ## 👥 User Conduct
 You understand that all information, data, text, or other materials ("Content") are the sole responsibility of the person from whom such Content originated. You are responsible for all Content that you post, transmit, or otherwise make available via the service.
